@@ -16,6 +16,7 @@ At initial state, User should see an empty board.
 1. Clone the repository
 2. Run yarn install from the root of the cloned repository
 3. Run 'yarn start' to launch the project in a browser
+4. nvmrc file specifies v14.17.3. If not using nvm please check the running version.
 
 <br>
 
@@ -38,4 +39,3 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 
 `Colour palette created with`  https://coolors.co/
-`UseInterval hook by Dan Abromov `  https://overreacted.io/making-setinterval-declarative-with-react-hooks/
