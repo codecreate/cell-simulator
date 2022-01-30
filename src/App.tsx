@@ -9,7 +9,7 @@ function App() {
     <>
       <GlobalStyles />
       <Container>
-          <Header>Cell Simulator</Header>
+          <Header />
           <CellGrid />
       </Container>
     </>
