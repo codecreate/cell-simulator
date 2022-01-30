@@ -10,8 +10,6 @@ type CellType = {
 
 const Cell:FC<CellType> = ({cellArr, setCellArr, cellPos}) => {
 
-    console.log({cellArr, setCellArr, cellPos});
-
     return (
         <CellStyled
             backgroundColor= { cellArr[cellPos] ? Colors.goldMetallic : Colors.grey}
