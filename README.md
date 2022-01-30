@@ -20,6 +20,7 @@ At initial state, User should see an empty board.
 
 <br>
 
+
 ## Available Scripts
 
 ### `yarn start`
@@ -34,6 +35,10 @@ You will also see any lint errors in the console.
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `yarn run cypress open`
+
+Starts the Cypress test runner
 
 
 
